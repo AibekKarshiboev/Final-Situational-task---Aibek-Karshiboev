@@ -2,7 +2,10 @@
 # CANVA LINK
 https://www.canva.com/design/DAGH5TBnIwg/Iwsz3i4kH5zd_JqmCdZRfA/edit?utm_content=DAGH5TBnIwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # Google drive
+# Full video
 https://drive.google.com/file/d/1evzFxAhkEr3D8BQXAMEPDx4fNCsnguF9/view?usp=sharing
+# Short video
+https://drive.google.com/file/d/1ZckZc-uHUczNTj8gmPvgvsBP4uXLS3CX/view?usp=sharing
 
 #1. Introduction to Machine Learning
 Definition: Machine learning is the development of algorithms that enable computers to learn from data.
